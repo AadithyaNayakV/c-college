@@ -10,5 +10,8 @@ int main()
         printf("the file is not opened");
         exit(0);
     }
+
+
+    
     return 0;
 }
